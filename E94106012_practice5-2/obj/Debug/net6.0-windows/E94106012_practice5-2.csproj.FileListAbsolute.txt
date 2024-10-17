@@ -1,0 +1,16 @@
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\bin\Debug\net6.0-windows\E94106012_practice5-2.exe
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\bin\Debug\net6.0-windows\E94106012_practice5-2.deps.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\bin\Debug\net6.0-windows\E94106012_practice5-2.runtimeconfig.json
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\bin\Debug\net6.0-windows\E94106012_practice5-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\bin\Debug\net6.0-windows\E94106012_practice5-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5_2.Form1.resources
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.csproj.GenerateResource.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.AssemblyInfo.cs
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\refint\E94106012_practice5-2.dll
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.pdb
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\E94106012_practice5-2.genruntimeconfig.cache
+C:\Users\USER\OneDrive - 國立成功大學 National Cheng Kung University\大三\視窗程式設計\第五周\E94106012_practice5-2\E94106012_practice5-2\obj\Debug\net6.0-windows\ref\E94106012_practice5-2.dll
